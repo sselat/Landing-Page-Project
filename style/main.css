@@ -146,6 +146,7 @@ img {
 
 .js .quote-slideshow figure{
     opacity: 0;
+    height: 180px;
     transition: 1s opacity;
     position: absolute;
     top: 0;
